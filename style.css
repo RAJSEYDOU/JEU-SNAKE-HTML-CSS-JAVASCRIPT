@@ -1,0 +1,25 @@
+
+
+
+/*canvas*/
+canvas{
+	border-color: 1px solid yellow;
+	background-color: black;
+      position: absolute;
+      left:35%;
+      top:20%;
+
+}
+/*background*/
+#background{
+	display:none;
+}
+#food{
+	display:none;
+}
+.scoreContainer{
+
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 1px 1px black;
+}
